@@ -37,6 +37,12 @@ main {
 footer {
   padding-block: 2em;
 }
+a {
+  color: #4c486f;
+}
+a:hover {
+  color: #706c9e;
+}
 .container {
   margin: 0 auto;
   max-width: 800px;
