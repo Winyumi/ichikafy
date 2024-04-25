@@ -60,7 +60,7 @@ button {
   padding: 0.8em 1.2em;
   border: none;
   border-radius: 5px;
-  background-color: #7d79ab;
+  background-color: #706c9e;
   color: white;
   font-size: 90%;
   font-weight: 600;
@@ -70,10 +70,10 @@ button {
   cursor: pointer;
 }
 button:hover {
-  background-color: #706c9e;
+  background-color: #656194;
 }
 button:active {
-  background-color: #656194;
+  background-color: #555183;
 }
 textarea {
   width: 100%;
