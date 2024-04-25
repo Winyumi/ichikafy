@@ -37,12 +37,6 @@ main {
 footer {
   padding-block: 2em;
 }
-footer a {
-  text-decoration: none;
-}
-footer a:hover {
-  text-decoration: underline;
-}
 .container {
   margin: 0 auto;
   max-width: 800px;
