@@ -80,7 +80,7 @@ textarea {
   width: 100%;
   min-height: 30vh;
   padding: 0.5em;
-  border-color: #cbcae6;
+  border: 1px solid #cbcae6;
   border-radius: 5px;
   font-family: inherit;
   resize: none;
